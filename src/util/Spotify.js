@@ -1,4 +1,4 @@
-const clientId = '7c9c3c7ffb8a421a81b501d8f1c4bfa4';
+const clientId = 'INSERT YOUR API HERE';
 const redirectUri = 'http://localhost:3000/';
 let accessToken;
 
