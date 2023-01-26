@@ -1,3 +1,3 @@
 https://jamming-with-cocci.netlify.app
-# Add your favourite songs to a spotify playlist
+# Search your favourite songs and add them to a playlist
 A react WebApp interacting with Spotify API
