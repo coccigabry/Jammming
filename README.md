@@ -1,6 +1,7 @@
 # JAMMMING
 
 A Front-End JavaScript WebApp built with [React.js](https://reactjs.org/) .
+Search any song on Spotify and add it to your playlist!
 https://jamming-with-cocci.netlify.app
 
 ## Features
